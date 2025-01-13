@@ -1,0 +1,8 @@
+Enrichment FDR,nGenes,Pathway Genes,Fold Enrichment,Pathway,URL,Genes
+0.040917255,1,36,127.1166667,Path:hsa00512 Mucin type O-glycan biosynthesis,http://www.genome.jp/kegg-bin/show_pathway?hsa00512 , GALNT2
+0.040917255,1,47,97.36595745,Path:hsa00514 Other types of O-glycan biosynthesis,http://www.genome.jp/kegg-bin/show_pathway?hsa00514 , GALNT2
+0.053179774,1,131,34.93282443,Path:hsa03040 Spliceosome,http://www.genome.jp/kegg-bin/show_pathway?hsa03040 , SNRNP200
+0.053179774,1,134,34.15074627,Path:hsa04270 Vascular smooth muscle contraction,http://www.genome.jp/kegg-bin/show_pathway?hsa04270 , MYH10
+0.053179774,1,169,27.07810651,Path:hsa04530 Tight junction,http://www.genome.jp/kegg-bin/show_pathway?hsa04530 , MYH10
+0.053179774,1,217,21.08847926,Path:hsa04810 Regulation of actin cytoskeleton,http://www.genome.jp/kegg-bin/show_pathway?hsa04810 , MYH10
+0.053179774,1,197,23.22944162,Path:hsa05130 Pathogenic Escherichia coli infection,http://www.genome.jp/kegg-bin/show_pathway?hsa05130 , MYH10

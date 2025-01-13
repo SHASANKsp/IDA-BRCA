@@ -1,0 +1,12 @@
+Enrichment FDR,nGenes,Pathway Genes,Fold Enrichment,Pathway,URL,Genes,,,,,,,,,,
+1.70E-07,7,108,29.66055556,Path:hsa03013 Nucleocytoplasmic transport,http://www.genome.jp/kegg-bin/show_pathway?hsa03013 , IPO7  NUP205  NUP160  TNPO2  XPO1  NUP85  NUP93,,https://aacrjournals.org/clincancerres/article/21/20/4508/246303/Molecular-Pathways-Anticancer-Activity-by,https://pubmed.ncbi.nlm.nih.gov/32598257/,https://pmc.ncbi.nlm.nih.gov/articles/PMC3960186/,https://www.sciencedirect.com/science/article/pii/S2211124722001425,https://pmc.ncbi.nlm.nih.gov/articles/PMC7851789/,https://jhoonline.biomedcentral.com/articles/10.1186/s13045-014-0085-1,https://www.nature.com/articles/s41420-023-01525-8,https://www.nature.com/articles/s41467-023-37914-x,https://www.sciencedirect.com/science/article/abs/pii/S0898656817300803
+,,,,,,,,,,,,,,,,
+1.67E-05,5,77,29.71558442,Path:hsa03008 Ribosome biogenesis in eukaryotes,http://www.genome.jp/kegg-bin/show_pathway?hsa03008 , WDR3  HEATR1  PWP2  XPO1  WDR75,Cell cycle,,,,,,,,,
+0.002264359,4,131,13.97312977,Path:hsa03040 Spliceosome,http://www.genome.jp/kegg-bin/show_pathway?hsa03040 , PRPF8  USP39  SNRNP200  SNRPA,,,,,,,,,,
+0.032936053,3,157,8.74433121,Path:hsa04390 Hippo signaling pathway,http://www.genome.jp/kegg-bin/show_pathway?hsa04390 , TPTEP2-CSNK1E  CSNK1D  CSNK1E,,,,,,,,,,
+0.039270316,2,56,16.34357143,Path:hsa04340 Hedgehog signaling pathway,http://www.genome.jp/kegg-bin/show_pathway?hsa04340 , CSNK1D  CSNK1E,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+0.024662581,3,134,10.24522388,Path:hsa00190 Oxidative phosphorylation,http://www.genome.jp/kegg-bin/show_pathway?hsa00190 , NDUFS3  ATP4A  UQCRFS1,Energy,,,,,,,,,
+,,,,,,,,,,,,,,,,
+0.002145524,6,364,7.543186813,Path:hsa05014 Amyotrophic lateral sclerosis,http://www.genome.jp/kegg-bin/show_pathway?hsa05014 , NUP205  NUP160  NDUFS3  UQCRFS1  NUP85  NUP93,Noice,,,,,,,,,
+0.0236003,2,34,26.91882353,Path:hsa04710 Circadian rhythm,http://www.genome.jp/kegg-bin/show_pathway?hsa04710 , CSNK1D  CSNK1E,,,,,,,,,,
